@@ -6,10 +6,10 @@
 - 减少重复开发，快速接入各种云平台
 ## 项目目录
 * platform-generic --------------------- 适配通用平台
-* platform-fastbe ----------------------- 适配蜂信物联网平台
+* platform-fastbee ----------------------- 适配蜂信物联网平台
 
 ## FastBee
-[FastBee开源物联网平台](https://gitee.com/kerwincui/wumei-smart)
+[FastBee开源物联网平台 >>](https://gitee.com/kerwincui/wumei-smart)
 
 ## Openwrt lede
 [Openwrt lede >>](https://github.com/coolsnowwolf/lede.git)
